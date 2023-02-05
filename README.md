@@ -1,5 +1,5 @@
 # Underwater-Trash-Detection
-Repo contains all the codes, files, dataset to the Underwater Trash Detection program
+Repo contains all the codes, files, dataset to the Underwater Trash Detection project (ongoing)
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm based on RCNN is proposed.
 
