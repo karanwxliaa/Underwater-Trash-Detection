@@ -15,14 +15,20 @@ CONS: High Computation time, Couldnt detect properly from real-life unseen data 
 
 ![ezgif-3-f0d401d26c](https://user-images.githubusercontent.com/95328038/216822228-72bc3f07-26ae-40cd-9aac-05f9b787a606.gif)
 ![ezgif-3-9af446a05c](https://user-images.githubusercontent.com/95328038/216822609-e710d82a-49a4-49a9-ac3f-4ba785758442.gif)
+#### RESULTS
+![image](https://user-images.githubusercontent.com/95328038/216962186-ef6e15d0-28c6-4da1-be5c-832895c6f563.png)
 
 
 ## YOLOv5s
 PROS: Good detection, Acceptable Accuracy.
 CONS: Training required high amount of GPU RAM (11.8GB) therefore high computation cost.
 
-![image](https://user-images.githubusercontent.com/95328038/208173120-b0b82a10-3c34-4f2e-bba3-f815c5a2ac67.png)
-![image](https://user-images.githubusercontent.com/95328038/208173203-d620b2b7-1953-4e6f-aaa2-96d0adc95bdf.png)
+![image](https://user-images.githubusercontent.com/95328038/216963438-080cd596-7eb3-41c4-836d-3bcdc461bdf6.png)
+![image](https://user-images.githubusercontent.com/95328038/216963461-53d66881-dad9-470a-99a6-cb1912ae6a50.png)
+#### RESULTS
+![image](https://user-images.githubusercontent.com/95328038/216963490-991378d1-cd98-44f0-b4c8-6377a9642eb6.png)
+
+![image](https://user-images.githubusercontent.com/95328038/216963385-51a7b7f0-1d28-4798-8daf-6857fad77df3.png)
 
 
 ## RCNN
