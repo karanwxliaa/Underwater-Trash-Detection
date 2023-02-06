@@ -1,0 +1,14 @@
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="BX5Dn0yIiAamUr83YZA3")
+project = rf.workspace("").project("utd2-hyo53")
+dataset = project.version(5).download("yolov5")
+
+yolov6 
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="BX5Dn0yIiAamUr83YZA3")
+project = rf.workspace("utd-0dazj").project("utd2-hyo53")
+dataset = project.version(5).download("mt-yolov6")
