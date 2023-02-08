@@ -2,7 +2,7 @@
 Due to highly variying domain features of different underwater enviornment, the publically available datasets alone are not the best fit to train a deep learning algorithm to train trash.
 Therefore we propose a cumulatuve, self-annonated dataset that provides a good foundation for training models to detect and classify trash underwater, and also provide benchmarks for the same.
 
-Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm based on RCNN is proposed.
+Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
 # Yolo V6s
 ![ezgif-2-5d833929c0](https://user-images.githubusercontent.com/95328038/216965905-3d3935fb-72cb-470f-b813-619163194216.gif)
