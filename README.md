@@ -1,5 +1,5 @@
 # Underwater-Trash-Detection (custom dataset)
-Due to highly variying domain features of different underwater enviornment, the publically available datasets alone are not the best fit to train a deep learning algorithm to train trash.
+Due to highly variying domain features of different underwater enviornment, the publically available datasets alone are not the best fit to train a deep learning algorithm to predict trash.
 Therefore we propose a cumulatuve, self-annonated dataset that provides a good foundation for training models to detect and classify trash underwater, and also provide benchmarks for the same.
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
