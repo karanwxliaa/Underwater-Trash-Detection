@@ -4,6 +4,10 @@ Therefore we propose a cumulatuve, self-annonated dataset that provides a good f
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
+# Yolov8 (small)
+![image](https://user-images.githubusercontent.com/95328038/218246164-bb5905f2-a5ca-4327-9c79-e8b2ce9f38de.png)
+
+
 # Yolo V6s
 ![ezgif-2-5d833929c0](https://user-images.githubusercontent.com/95328038/216965905-3d3935fb-72cb-470f-b813-619163194216.gif)
 ![ezgif-2-86293c1b98 (1)](https://user-images.githubusercontent.com/95328038/216966353-65ca1cb7-a087-4731-9325-e8470927a593.gif)
