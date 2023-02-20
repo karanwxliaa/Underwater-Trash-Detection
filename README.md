@@ -30,7 +30,7 @@ Higer detections, higher false negatives relative to v6 but more detections.
 
 
 # RCNN
-
+![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/blob/main/RCNN/Results%20of%20RCNN.png)
 
 
 
