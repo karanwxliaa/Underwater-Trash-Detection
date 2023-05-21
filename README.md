@@ -5,6 +5,11 @@ This repository aims to generate code that detects trash, classifies it into pla
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
+# Yolov8x 
+![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/efb0a3c1-528f-4629-ac21-9e3eaaf266fb)
+![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/0714d155-d32c-4557-be64-764302a151cd)
+
+
 # Yolov8n (nano)
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/97ab9abb-1eef-4027-82b9-a24e28111040)
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/7d7201d0-fc2a-4cbd-b335-e1a700d51ef5)
