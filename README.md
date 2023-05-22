@@ -5,6 +5,8 @@ This repository aims to generate code that detects trash, classifies it into pla
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
+![Untitled1 ipynb - Colaboratory - Google Chrome 5_22_2023 7_23_15 PM](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/37a6ca5a-a5b5-40a1-9697-b44341a6e213)
+
 # Yolov8x 
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/efb0a3c1-528f-4629-ac21-9e3eaaf266fb)
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/0714d155-d32c-4557-be64-764302a151cd)
