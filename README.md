@@ -6,6 +6,35 @@ This repository aims to generate code that detects trash, classifies it into pla
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
 
+```
+@misc{walia2024deeplearninginnovationsunderwater,
+      title={Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis}, 
+      author={Jaskaran Singh Walia and Pavithra L K},
+      year={2024},
+      eprint={2405.18299},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.18299}, 
+}
+
+@InProceedings{10.1007/978-3-031-43360-3_24,
+author="Walia, Jaskaran Singh
+and Seemakurthy, Karthik",
+editor="Iida, Fumiya
+and Maiolino, Perla
+and Abdulali, Arsen
+and Wang, Mingfeng",
+title="Optimized Custom Dataset for Efficient Detection of Underwater Trash",
+booktitle="Towards Autonomous Robotic Systems",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="292--303",
+}
+
+
+```
+
 
 # Yolov8x 
 ![image](https://github.com/karanwxliaa/Underwater-Trash-Detection/assets/95328038/efb0a3c1-528f-4629-ac21-9e3eaaf266fb)
@@ -18,25 +47,9 @@ Aiming at the problem of insufficient storage space and limited computing abilit
 
 
 
-# Yolov8 (small)
-since YoloV8 is quite new and still under development it had a lot of bugs and didnt give the best outputs.
-![image](https://user-images.githubusercontent.com/95328038/218246199-ee613587-2f79-4267-b7b4-01a92e055eea.png)
-
-
-# Yolo V6s
-Gave more accurate detections from v5 and lower false positives but better accuracy at the cost of lower detections.
-![ezgif-2-5d833929c0](https://user-images.githubusercontent.com/95328038/216965905-3d3935fb-72cb-470f-b813-619163194216.gif)
-![ezgif-2-86293c1b98 (1)](https://user-images.githubusercontent.com/95328038/216966353-65ca1cb7-a087-4731-9325-e8470927a593.gif)
-
 ## RESULTS
 ![image](https://user-images.githubusercontent.com/95328038/216963801-3ed4a1d2-9444-4a38-91ab-31a6fec4580a.png)
 
-
-
-# YOLOv5s
-Higer detections, higher false negatives relative to v6 but more detections.
-![ezgif-2-16e87df07e](https://user-images.githubusercontent.com/95328038/216964618-2ef2c379-69df-4d67-ac4e-ae6e19f0bb53.gif)
-![ezgif-2-67e77099d4](https://user-images.githubusercontent.com/95328038/216964621-88849f83-b893-4f98-a7d5-1fcc50f15a5a.gif)
 
 ## RESULTS
 ![image](https://user-images.githubusercontent.com/95328038/216963724-eb4020c5-4333-45fc-8fea-9a4d5fb28913.png)
