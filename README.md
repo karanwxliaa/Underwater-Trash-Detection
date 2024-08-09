@@ -5,7 +5,7 @@ This repository aims to generate code that detects trash, classifies it into pla
 
 Aiming at the problem of insufficient storage space and limited computing ability of underwater mobile devices, an underwater garbage detection algorithm is proposed.
 
-
+# Cite
 ```
 @misc{walia2024deeplearninginnovationsunderwater,
       title={Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis}, 
